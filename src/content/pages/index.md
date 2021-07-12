@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: The Money Wolf
 tagline: Affiliate Marketer | Dropshipper
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/3.png
 cta:
   ctaText: Know more
   ctaLink: /about
