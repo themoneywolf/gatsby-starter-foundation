@@ -8,4 +8,4 @@ cta:
   ctaText: DM me on twitter
   ctaLink: https://twitter.com/TheMoneyWolf2
 ---
-Build up your wealth by all the tried, tested & proven tools for success.
+Build up your wealth by all the tried, tested & proven tools for sure success.
