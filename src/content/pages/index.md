@@ -5,8 +5,7 @@ title: The Money Wolf
 tagline: Affiliate Marketer | Dropshipper
 featuredImage: /assets/3.png
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: DM me on twitter
+  ctaLink: https://twitter.com/TheMoneyWolf2
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Build up your wealth by all the tried, tested & proven tools for success.
