@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: The Money Wolf
 tagline: Affiliate Marketer | Dropshipper
-featuredImage: /assets/3.png
+featuredImage: /assets/2.png
 cta:
   ctaText: DM me on twitter
   ctaLink: https://twitter.com/TheMoneyWolf2
