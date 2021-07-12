@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
-    "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "title": "The Money Wolf",
+    "titleTemplate": "%",
+    "description": "I'll help to grow your wealth with awesome, tried and tested tools. Made with ❤ by The Money Wolf",
     "siteUrl": "https://foundation.stackrole.com",
     "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "iconimage": "/assets/2.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
